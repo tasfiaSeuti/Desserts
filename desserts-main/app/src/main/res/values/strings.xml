@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Food Recipes</string>
+    <string name="quotes"><font color='black'>Make your own Dessert,\nstay </font><font color='#f18d46'>Home</font><font color='black'>, stay </font><font color='#f18d46'>Safe!</font></string>
+    <string name="hello_dessert_lovers">Hello, Dessert lovers!</string>
+    <string name="dessert_categories">Choose Your Dessert!</string>
+    <string name="no_internet_connection">No internet connection!</string>
+    <string name="something_is_wrong">Something is wrong!</string>
+    <string name="source">Source</string>
+    <string name="ingredients">Ingredients:</string>
+    <string name="instructions">Instructions:</string>
+    <string name="watch_on_youtube">Watch On Youtube</string>
+    <string name="share_recipe">Share Recipe</string>
+    <string name="displaying_data_msg">Displaying data ...</string>
+    <string name="please_wait_msg">Please Wait</string>
+    <string name="welcome_to_food_recipes_n_sign_up_here">Welcome to Food Recipes! \n Sign Up Here</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="sign_in">Sign In</string>
+    <string name="register_here">Register Here</string>
+    <string name="log_out">Log out</string>
+    <string name="resgister_here">Register Here</string>
+    <string name="logIn">Log In</string>
+</resources>
