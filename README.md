@@ -12,6 +12,8 @@ The Recipe App is an Android app made using Android Studio. It is created so tha
 ### Programming Language : Kotlin
 
 ### Markup Language : XML
+
+### Authentication: Firebase
   
 ### Api used
 
