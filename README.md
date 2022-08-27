@@ -9,17 +9,23 @@ The Recipe App is an Android app made using Android Studio. It is created so tha
 3. models folder contains classes to define a: database - direction - ingredient - recipe - user
 4. networking folder contains code relatedd to network call/api call
 
-# Programming Language : Kotlin
+### Programming Language : Kotlin
 
-# Markup Language : XML
+### Markup Language : XML
   
-# Api used
+### Api used
 
 https://www.themealdb.com/api.php
 
-# Endpoints utilized here:
+### Endpoints utilized here:
 
 1. https://www.themealdb.com/api/json/v1/1/filter.php?c=Dessert for fetching the list of meals in the Dessert category.
 2. https://www.themealdb.com/api/json/v1/1/lookup.php?i=MEAL_ID for fetching the meal details by its ID.
 
+### Description
 
+The user is shown the list of desserts in the Main activity category, sorted alphabetically, with image of that dessert. When the user selects a dessert, a detailed view is shown of that selecteditem that includes:
+
+● Dessert name
+● Instructions
+● Ingredients/measurements
