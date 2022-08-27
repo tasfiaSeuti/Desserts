@@ -8,6 +8,10 @@ The Recipe App is an Android app made using Android Studio. It is created so tha
 2. adapters folder contains adapters for: database - directions - ingredients - main page - recipes
 3. models folder contains classes to define a: database - direction - ingredient - recipe - user
 4. networking folder contains code relatedd to network call/api call
+
+# Programming Language : Kotlin
+
+# Markup Language : XML
   
 # Api used
 
