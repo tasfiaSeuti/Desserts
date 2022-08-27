@@ -31,3 +31,17 @@ The user is shown the list of desserts in the Main activity category, sorted alp
 ● Dessert name
 ● Instructions
 ● Ingredients/measurements
+
+### Exrtra Features
+
+● Clicking on 'Watch On Youtube' button takes the user directly to a youtube tutorial of his/her selected dessert
+● Clicking on 'Share Recipe' button allows the user to share the recipe via message, drive or mail
+● Clicking on 'Source' button takes the user t the internet page that has insights of that recipe
+
+## Screenshots
+
+### Log In/ Sign Up page
+
+![Screenshot 2022-08-27 at 10 18 42 PM](https://user-images.githubusercontent.com/31209824/187039184-67640cb9-13de-4b79-818d-143d0e612bf0.png)
+![Screenshot 2022-08-27 at 10 18 57 PM](https://user-images.githubusercontent.com/31209824/187039191-9db7fbaf-0b53-4792-be90-1803e055fffe.png)
+
