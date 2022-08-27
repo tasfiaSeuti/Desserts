@@ -9,7 +9,7 @@ The Recipe App is an Android app made using Android Studio. It is created so tha
 3. models folder contains classes to define a: database - direction - ingredient - recipe - user
 4. networking folder contains code relatedd to network call/api call
   
-#Api used
+# Api used
 
 https://www.themealdb.com/api.php
 
