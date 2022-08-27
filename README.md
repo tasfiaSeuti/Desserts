@@ -43,5 +43,15 @@ The user is shown the list of desserts in the Main activity category, sorted alp
 ### Log In/ Sign Up page
 
 ![Screenshot 2022-08-27 at 10 18 42 PM](https://user-images.githubusercontent.com/31209824/187039184-67640cb9-13de-4b79-818d-143d0e612bf0.png)
-![Screenshot 2022-08-27 at 10 18 57 PM](https://user-images.githubusercontent.com/31209824/187039191-9db7fbaf-0b53-4792-be90-1803e055fffe.png)
+![Screen![Screenshot 2022-08-27 at 10 19 33 PM](https://user-images.githubusercontent.com/31209824/187039211-edabb42f-4a86-4cb6-96a5-bf88ec0298ea.png)
+shot 2022-08-27 at 10 18 57 PM](https://user-images.githubusercontent.com/31209824/187039191-9db7fbaf-0b53-4792-be90-1803e055fffe.png)
 
+### Main Activity
+![Screenshot 2022-08-27 at 10 23 33 PM](https://user-images.githubusercontent.com/31209824/187039226-dc822ac8-662d-403e-82ab-71fa2a752cc2.png)
+![Screenshot 2022-08-27 at 10 23 49 PM](https://user-images.githubusercontent.com/31209824/187039230-fb8988e3-2814-4290-944e-282950922125.png)
+
+
+### Detailed page
+![Screenshot 2022-08-27 at 10 24 00 PM](https://user-images.githubusercontent.com/31209824/187039242-9c9a9017-b1b4-4a97-bead-12cf69730742.png)
+![Screenshot 2022-08-27 at 10 24 12 PM](https://user-images.githubusercontent.com/31209824/187039248-5ad5f93d-d9c8-4c72-b012-9b58a6a844e2.png)
+![Screenshot 2022-08-27 at 10 24 37 PM](https://user-images.githubusercontent.com/31209824/187039261-c7e703d4-663a-41fc-b671-f690db36de0d.png)
